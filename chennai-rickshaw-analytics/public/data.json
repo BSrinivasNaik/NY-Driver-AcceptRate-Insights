@@ -1,0 +1,434 @@
+{
+  "summary": {
+    "totalRecords": 8333,
+    "totalSearches": 8333,
+    "totalQuotes": 7067,
+    "overallConversionRate": 84.80739229569183,
+    "completed": 7021,
+    "cancelled": 1262,
+    "active": 50
+  },
+  "hourlyData": [
+    {
+      "hour": 0,
+      "totalSearches": 24,
+      "quotesReceived": 21,
+      "conversionRate": 87.5,
+      "avgDistance": 13.100809523809524,
+      "avgBaseFare": 297.7916666666667,
+      "avgPickupDistance": 963.952380952381,
+      "completed": 21,
+      "cancelled": 3,
+      "active": 0
+    },
+    {
+      "hour": 1,
+      "totalSearches": 3,
+      "quotesReceived": 2,
+      "conversionRate": 66.66666666666666,
+      "avgDistance": 6.0685,
+      "avgBaseFare": 137.66666666666666,
+      "avgPickupDistance": 549.0,
+      "completed": 2,
+      "cancelled": 1,
+      "active": 0
+    },
+    {
+      "hour": 2,
+      "totalSearches": 5,
+      "quotesReceived": 2,
+      "conversionRate": 40.0,
+      "avgDistance": 7.3695,
+      "avgBaseFare": 138.4,
+      "avgPickupDistance": 772.5,
+      "completed": 2,
+      "cancelled": 3,
+      "active": 0
+    },
+    {
+      "hour": 3,
+      "totalSearches": 13,
+      "quotesReceived": 11,
+      "conversionRate": 84.61538461538461,
+      "avgDistance": 9.131636363636364,
+      "avgBaseFare": 214.69230769230768,
+      "avgPickupDistance": 813.0,
+      "completed": 11,
+      "cancelled": 2,
+      "active": 0
+    },
+    {
+      "hour": 4,
+      "totalSearches": 28,
+      "quotesReceived": 25,
+      "conversionRate": 89.28571428571429,
+      "avgDistance": 7.368,
+      "avgBaseFare": 195.28571428571428,
+      "avgPickupDistance": 451.08,
+      "completed": 25,
+      "cancelled": 3,
+      "active": 0
+    },
+    {
+      "hour": 5,
+      "totalSearches": 59,
+      "quotesReceived": 44,
+      "conversionRate": 74.57627118644068,
+      "avgDistance": 8.142,
+      "avgBaseFare": 189.23728813559322,
+      "avgPickupDistance": 749.1818181818181,
+      "completed": 43,
+      "cancelled": 15,
+      "active": 1
+    },
+    {
+      "hour": 6,
+      "totalSearches": 113,
+      "quotesReceived": 91,
+      "conversionRate": 80.53097345132744,
+      "avgDistance": 9.089802197802197,
+      "avgBaseFare": 145.90265486725664,
+      "avgPickupDistance": 855.3186813186813,
+      "completed": 91,
+      "cancelled": 22,
+      "active": 0
+    },
+    {
+      "hour": 7,
+      "totalSearches": 191,
+      "quotesReceived": 173,
+      "conversionRate": 90.57591623036649,
+      "avgDistance": 9.717531791907515,
+      "avgBaseFare": 168.10994764397907,
+      "avgPickupDistance": 837.3815028901735,
+      "completed": 172,
+      "cancelled": 18,
+      "active": 1
+    },
+    {
+      "hour": 8,
+      "totalSearches": 340,
+      "quotesReceived": 304,
+      "conversionRate": 89.41176470588236,
+      "avgDistance": 8.888141447368422,
+      "avgBaseFare": 155.19411764705882,
+      "avgPickupDistance": 916.2927631578947,
+      "completed": 302,
+      "cancelled": 35,
+      "active": 3
+    },
+    {
+      "hour": 9,
+      "totalSearches": 419,
+      "quotesReceived": 391,
+      "conversionRate": 93.31742243436753,
+      "avgDistance": 8.30280051150895,
+      "avgBaseFare": 151.5942720763723,
+      "avgPickupDistance": 835.774936061381,
+      "completed": 390,
+      "cancelled": 28,
+      "active": 1
+    },
+    {
+      "hour": 10,
+      "totalSearches": 522,
+      "quotesReceived": 495,
+      "conversionRate": 94.82758620689656,
+      "avgDistance": 7.277646464646464,
+      "avgBaseFare": 134.82950191570882,
+      "avgPickupDistance": 796.4787878787879,
+      "completed": 493,
+      "cancelled": 28,
+      "active": 1
+    },
+    {
+      "hour": 11,
+      "totalSearches": 525,
+      "quotesReceived": 470,
+      "conversionRate": 89.52380952380953,
+      "avgDistance": 7.374297872340426,
+      "avgBaseFare": 136.49714285714285,
+      "avgPickupDistance": 762.1829787234043,
+      "completed": 470,
+      "cancelled": 54,
+      "active": 1
+    },
+    {
+      "hour": 12,
+      "totalSearches": 573,
+      "quotesReceived": 503,
+      "conversionRate": 87.78359511343804,
+      "avgDistance": 7.673320079522863,
+      "avgBaseFare": 136.53403141361255,
+      "avgPickupDistance": 658.2604373757455,
+      "completed": 499,
+      "cancelled": 71,
+      "active": 3
+    },
+    {
+      "hour": 13,
+      "totalSearches": 603,
+      "quotesReceived": 503,
+      "conversionRate": 83.41625207296849,
+      "avgDistance": 7.641572564612327,
+      "avgBaseFare": 134.28689883913765,
+      "avgPickupDistance": 725.182902584493,
+      "completed": 503,
+      "cancelled": 100,
+      "active": 0
+    },
+    {
+      "hour": 14,
+      "totalSearches": 548,
+      "quotesReceived": 459,
+      "conversionRate": 83.75912408759125,
+      "avgDistance": 7.606320261437909,
+      "avgBaseFare": 136.8339416058394,
+      "avgPickupDistance": 708.7298474945534,
+      "completed": 456,
+      "cancelled": 90,
+      "active": 2
+    },
+    {
+      "hour": 15,
+      "totalSearches": 602,
+      "quotesReceived": 511,
+      "conversionRate": 84.88372093023256,
+      "avgDistance": 8.839495107632095,
+      "avgBaseFare": 156.234219269103,
+      "avgPickupDistance": 783.6692759295499,
+      "completed": 508,
+      "cancelled": 92,
+      "active": 2
+    },
+    {
+      "hour": 16,
+      "totalSearches": 542,
+      "quotesReceived": 454,
+      "conversionRate": 83.76383763837639,
+      "avgDistance": 7.553759911894273,
+      "avgBaseFare": 163.18081180811808,
+      "avgPickupDistance": 801.8127753303964,
+      "completed": 445,
+      "cancelled": 87,
+      "active": 10
+    },
+    {
+      "hour": 17,
+      "totalSearches": 640,
+      "quotesReceived": 548,
+      "conversionRate": 85.625,
+      "avgDistance": 8.329903284671532,
+      "avgBaseFare": 167.3171875,
+      "avgPickupDistance": 820.6952554744526,
+      "completed": 545,
+      "cancelled": 92,
+      "active": 3
+    },
+    {
+      "hour": 18,
+      "totalSearches": 712,
+      "quotesReceived": 596,
+      "conversionRate": 83.70786516853933,
+      "avgDistance": 7.905531879194631,
+      "avgBaseFare": 160.1938202247191,
+      "avgPickupDistance": 782.1694630872483,
+      "completed": 595,
+      "cancelled": 116,
+      "active": 1
+    },
+    {
+      "hour": 19,
+      "totalSearches": 663,
+      "quotesReceived": 536,
+      "conversionRate": 80.8446455505279,
+      "avgDistance": 6.754701492537313,
+      "avgBaseFare": 147.38612368024133,
+      "avgPickupDistance": 749.7985074626865,
+      "completed": 528,
+      "cancelled": 121,
+      "active": 14
+    },
+    {
+      "hour": 20,
+      "totalSearches": 450,
+      "quotesReceived": 396,
+      "conversionRate": 88.0,
+      "avgDistance": 7.020782828282829,
+      "avgBaseFare": 147.60888888888888,
+      "avgPickupDistance": 755.7348484848485,
+      "completed": 395,
+      "cancelled": 54,
+      "active": 1
+    },
+    {
+      "hour": 21,
+      "totalSearches": 472,
+      "quotesReceived": 318,
+      "conversionRate": 67.37288135593221,
+      "avgDistance": 9.002128930817609,
+      "avgBaseFare": 152.58898305084745,
+      "avgPickupDistance": 882.3081761006289,
+      "completed": 316,
+      "cancelled": 155,
+      "active": 1
+    },
+    {
+      "hour": 22,
+      "totalSearches": 232,
+      "quotesReceived": 172,
+      "conversionRate": 74.13793103448276,
+      "avgDistance": 9.05771511627907,
+      "avgBaseFare": 154.13362068965517,
+      "avgPickupDistance": 849.4418604651163,
+      "completed": 169,
+      "cancelled": 59,
+      "active": 4
+    },
+    {
+      "hour": 23,
+      "totalSearches": 54,
+      "quotesReceived": 42,
+      "conversionRate": 77.77777777777779,
+      "avgDistance": 5.496952380952381,
+      "avgBaseFare": 145.14814814814815,
+      "avgPickupDistance": 669.0238095238095,
+      "completed": 40,
+      "cancelled": 13,
+      "active": 1
+    }
+  ],
+  "distanceData": [
+    {
+      "distanceRange": "0-5",
+      "totalSearches": 2821,
+      "quotesReceived": 2821,
+      "conversionRate": 100.0,
+      "avgBaseFare": 78.6930166607586
+    },
+    {
+      "distanceRange": "5-10",
+      "totalSearches": 2203,
+      "quotesReceived": 2203,
+      "conversionRate": 100.0,
+      "avgBaseFare": 146.87335451656833
+    },
+    {
+      "distanceRange": "10-15",
+      "totalSearches": 1161,
+      "quotesReceived": 1161,
+      "conversionRate": 100.0,
+      "avgBaseFare": 212.06373815676142
+    },
+    {
+      "distanceRange": "15-20",
+      "totalSearches": 550,
+      "quotesReceived": 550,
+      "conversionRate": 100.0,
+      "avgBaseFare": 282.7309090909091
+    },
+    {
+      "distanceRange": "20-25",
+      "totalSearches": 203,
+      "quotesReceived": 203,
+      "conversionRate": 100.0,
+      "avgBaseFare": 360.95073891625617
+    },
+    {
+      "distanceRange": "25-30",
+      "totalSearches": 89,
+      "quotesReceived": 89,
+      "conversionRate": 100.0,
+      "avgBaseFare": 455.75280898876406
+    },
+    {
+      "distanceRange": "30+",
+      "totalSearches": 40,
+      "quotesReceived": 40,
+      "conversionRate": 100.0,
+      "avgBaseFare": 617.6
+    }
+  ],
+  "fareData": [
+    {
+      "fareRange": "50-100",
+      "totalSearches": 3097,
+      "quotesReceived": 2409,
+      "conversionRate": 77.78495318049725
+    },
+    {
+      "fareRange": "100-150",
+      "totalSearches": 1904,
+      "quotesReceived": 1665,
+      "conversionRate": 87.44747899159664
+    },
+    {
+      "fareRange": "150-200",
+      "totalSearches": 1429,
+      "quotesReceived": 1295,
+      "conversionRate": 90.62281315605318
+    },
+    {
+      "fareRange": "200-250",
+      "totalSearches": 895,
+      "quotesReceived": 803,
+      "conversionRate": 89.72067039106145
+    },
+    {
+      "fareRange": "250-300",
+      "totalSearches": 445,
+      "quotesReceived": 411,
+      "conversionRate": 92.35955056179776
+    },
+    {
+      "fareRange": "300-350",
+      "totalSearches": 240,
+      "quotesReceived": 219,
+      "conversionRate": 91.25
+    },
+    {
+      "fareRange": "350-400",
+      "totalSearches": 131,
+      "quotesReceived": 116,
+      "conversionRate": 88.54961832061069
+    },
+    {
+      "fareRange": "400+",
+      "totalSearches": 192,
+      "quotesReceived": 149,
+      "conversionRate": 77.60416666666666
+    }
+  ],
+  "pickupDistanceData": [
+    {
+      "pickupRange": "0-500",
+      "totalSearches": 2060,
+      "quotesReceived": 2060,
+      "conversionRate": 100.0
+    },
+    {
+      "pickupRange": "500-1000",
+      "totalSearches": 3037,
+      "quotesReceived": 3037,
+      "conversionRate": 100.0
+    },
+    {
+      "pickupRange": "1000-1500",
+      "totalSearches": 1442,
+      "quotesReceived": 1442,
+      "conversionRate": 100.0
+    },
+    {
+      "pickupRange": "1500-2000",
+      "totalSearches": 527,
+      "quotesReceived": 527,
+      "conversionRate": 100.0
+    },
+    {
+      "pickupRange": "2000-2500",
+      "totalSearches": 1,
+      "quotesReceived": 1,
+      "conversionRate": 100.0
+    }
+  ]
+}
